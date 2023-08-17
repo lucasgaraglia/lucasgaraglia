@@ -1,8 +1,5 @@
-# once
-## double
-### triple
-#### cuadruple
-hi there 2
+# full-stack dev trainee
+html, css, javascript, nodejs, mysql, php.
 
 <!--
 **lucasgaraglia/lucasgaraglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
